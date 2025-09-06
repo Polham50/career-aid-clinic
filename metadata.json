@@ -1,0 +1,15 @@
+{
+  "name": "CareerAid Clinic",
+  "description": "An AI-powered, smart and self-service career guidance and counseling platform designed for Nigerian students, offering career assessment, profiling, academic-to-career alignment, and local labour market insights.",
+  "requestFramePermissions": [],
+  "frameOptions": {
+    "sandbox": [
+      "allow-forms",
+      "allow-modals",
+      "allow-popups",
+      "allow-popups-to-escape-sandbox",
+      "allow-scripts",
+      "allow-same-origin"
+    ]
+  }
+}
